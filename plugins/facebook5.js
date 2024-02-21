@@ -43,7 +43,7 @@ ${result.description}
         );
     } catch (error) {
         console.error('Handler Error:', error);
-        conn.reply(m.chat, `وقعت مشكلة راسل \ninstagram.com/noureddine_ouafy`, m);
+        conn.reply(m.chat, `وقعت مشكلة راسل \nhttps://www.instagram.com/sadb_ot1`, m);
     }
 };
 
